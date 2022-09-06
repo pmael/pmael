@@ -25,6 +25,9 @@ You can join me @ :</br>
 mael.pompilius@epitech.eu</br>
 <a href="https://www.linkedin.com/in/ma%C3%ABl-pompilius-7b8114232">linkedin</a>
 
+Heres my projects</br>
+<!--my favourite one is <a href="">SBMLParser</a>-->
+
 <!--
 **pmael/pmael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

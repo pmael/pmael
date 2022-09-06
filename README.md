@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1>Welcome to my GitHub !</br></h1>
 
-Actually at an IT/Software Engineering french school <a href="https://www.epitech.eu/">Epitech</a>.
+Actually at an IT/Software Engineering french school named <a href="https://www.epitech.eu/">Epitech</a>.
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)

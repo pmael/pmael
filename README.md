@@ -13,6 +13,7 @@ Actually at an IT/Software Engineering french school named <a href="https://www.
 ![emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![php](https://img.shields.io/badge/php-%237F5AB6.svg?style=for-the-badge&logo=php&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2E8A99?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maillotdebenjamin&repo=my_rpg)](https://github.com/maillotdebenjamin/my_rpg)
